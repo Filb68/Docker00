@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: linux/ubuntu/dists/focal/pool/stable/amd64/docker-ce_docker-ce_20.10.9~3-0~ubuntu-focal_amd64.deb</li>
+<li>RequestId: BVFE8G4W539J149B</li>
+<li>HostId: dwVWksIJ8hqnOC2w6aLmvgkUdnQdMSxiZDbHCiLNJMK/+SQSR9kjSyG7V1cu+yPV/yXRUH51828=</li>
+</ul>
+<hr/>
+</body>
+</html>
